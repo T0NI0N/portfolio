@@ -8,7 +8,7 @@ Informatica, Insubria
 Computer Science, Insubria (in corso)
 
 ### Tesi
-- Triennale: Studio e analisi delle prestazioni della crittografia basata su attributi post-quantistica, [Riassunto](./post-quantum.md).
+- Triennale: [Studio e analisi delle prestazioni della crittografia basata su attributi post-quantistica](./pages/post-quantum.md).
 - Magistrale: work in progress...
 
 ## Progetti
