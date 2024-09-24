@@ -21,6 +21,3 @@ Struttura:
 - Capitolo 5 - Soluzione proposta: definizione e descrizione di una possibile implementazione dello schema ABE in ambito industriale, al fine di rendere sicuri i dati sensibili di utenti e segreti industriali, includendo delle possibili politiche di accesso e insiemi di attributi per gli utenti, simulandone il comportamento attraverso l'utilizzo di codice scritto ad-hoc a tale scopo;
 - Capitolo 6 - Analisi performance: valutazione del tempo di esecuzione delle operazioni primitive dello schema CP-ABE, al variare dei parametri di sicurezza e al numero degli attributi utilizzati, confrontando anche le diverse modalità di generazione delle chiavi, includendo anche la valutazione della soluzione proposta simulando su un calcolatore l'uso contemporaneo dello schema da parte di più utenti;
 - Capitolo 7 - Conclusioni: include il riassunto del lavoro svolto, il riepilogo dei risultati ottenuti e proposte per ulteriori sviluppi futuri.
-
-
-[Indietro](././)
