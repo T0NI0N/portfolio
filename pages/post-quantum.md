@@ -23,4 +23,4 @@ Struttura:
 - Capitolo 7 - Conclusioni: include il riassunto del lavoro svolto, il riepilogo dei risultati ottenuti e proposte per ulteriori sviluppi futuri.
 
 
-[Indietro](./)
+[Indietro](./portfolio)
