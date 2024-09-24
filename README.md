@@ -15,7 +15,7 @@ Computer Science, Insubria (in corso)
 
 ### Accademici
 #### Laurea Triennale
-- Big Data: vari mini-progetti in svariati ambiti
+- [Big Data](./pages/bigdata.md): vari mini-progetti in svariati ambiti
 - Elaborazione delle Immagini: miglioramento qualità ed estrazione caratteristiche
 - Laboratorio A-B: piattaforma prenotazione e gestione vaccinazioni COVID-19
 - Programmazione Dispositivi Mobili: applicazione di gestione fumetti (Kotlin)
