@@ -1,5 +1,5 @@
 # Portfolio
-Ciao, mi chiamo Antonio e un fiero (e sfinito) possessore di una laurea magistrale in Informatica, ma anche un grande appassionato di cybersecurity e tutto ciò che ne ruota intorno!  
+Ciao, mi chiamo Antonio e sono un fiero (e sfinito) possessore di una laurea magistrale in Informatica, ma anche un grande appassionato di cybersecurity e tutto ciò che ne ruota intorno!  
 Qui racconto di me e dei progetti che ho portato avanti, sia riguardanti l'università, sia personali.  
 Nel (poco) tempo libero rimasto al di fuori dell'informatica mi piace seguire la cultura pop / giapponese in tutte le sue forme...
 
