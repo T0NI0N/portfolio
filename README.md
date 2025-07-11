@@ -1,17 +1,19 @@
 # Portfolio
-Ciao, mi chiamo Antonio e sono uno studente di Informatica, all'ultimo anno di laurea magistrale, ma anche un grande appassionato di cybersecurity e tutto ciò che ne ruota intorno!  
+Ciao, mi chiamo Antonio e un fiero (e sfinito) possessore di una laurea magistrale in Informatica, ma anche un grande appassionato di cybersecurity e tutto ciò che ne ruota intorno!  
 Qui racconto di me e dei progetti che ho portato avanti, sia riguardanti l'università, sia personali.  
-Nel (poco) tempo libero rimasto al di fuori dell'informatica mi piace seguire la cultura pop / giapponese con manga, anime, carte e troppe altre cose da scrivere...
+Nel (poco) tempo libero rimasto al di fuori dell'informatica mi piace seguire la cultura pop / giapponese in tutte le sue forme...
 
 ## Studi
 Informatica, Insubria  
-Computer Science, Insubria (in corso)
+Computer Science, Insubria 
 
 ### Tesi
 - Triennale: [Studio e analisi delle prestazioni della crittografia basata su attributi post-quantistica](./pages/post-quantum.md).
-- Magistrale: Malware Detection in Cloud Computing with LLM, work in progress...
+- Magistrale: [Enhancing malware detection in edge computing exploiting Large Language Models: a performance overview](./pages/malware-llm.md).
 
 ## Progetti
+
+Finalista nazionale di [CyberChallenge.it 2025](https://cyberchallenge.it/) per il Team Insubria.
 
 ### Accademici
 #### Laurea Triennale
@@ -34,5 +36,6 @@ Computer Science, Insubria (in corso)
 - Varie applicazioni per smartphone di gestione / tracker, come ad esempio fumetti (Flutter, Firebase)
 - Vari script per Penetration Testing / Red Team
 - Vari script per Blue Team / Inf. Forense
+- Vari script legati al modo delle CTF (Capture The Flag)
 - Vari Proof of Concept per lo studio di malware
 - Molto altro che non ho avuto modo di completare...
