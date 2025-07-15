@@ -18,19 +18,23 @@ Finalista nazionale di [CyberChallenge.it 2025](https://cyberchallenge.it/) per 
 ### Accademici
 #### Laurea Triennale
 - [Big Data](https://github.com/T0NI0N/Big-Data-esercizi): vari mini-progetti in svariati ambiti
-- Elaborazione delle Immagini: miglioramento qualità ed estrazione caratteristiche
+- [Elaborazione delle Immagini](https://github.com/T0NI0N/uni-presentations/blob/main/Elaborazione_Immagini.pdf): miglioramento qualità ed estrazione caratteristiche
 - [Laboratorio A-B](https://github.com/T0NI0N/Lab_B): piattaforma prenotazione e gestione vaccinazioni COVID-19
 - [Programmazione Dispositivi Mobili](https://github.com/T0NI0N/MyComicsBase): applicazione di gestione fumetti (Kotlin)
 - Vari progetti più contenuti per i corsi rimanenti.
 
 #### Laurea Magistrale
-- Data Security and Privacy: controllo degli accessi in campeggio smart
+- [Data Security and Privacy](https://github.com/T0NI0N/uni-presentations/blob/main/Data_Security_and_Privacy.pdf): controllo degli accessi in campeggio smart
 - [Innovative Telecommunication Systems](https://github.com/T0NI0N/SmartBarracks): gestione caserma smart IoT
-- Intelligent Systems: previsione prezzi e conteggio n. persone in una stanza tramite sensori
-- Logic for Artificial Intelligence: risoluzione tableaux in PROLOG e controllo qualità industriale tramite Fuzzy Logic
-- Security Risk Management: analisi della sicurezza della crittografia post-quantistica
+- [Intelligent Systems](https://github.com/T0NI0N/Intelligent-Systems): previsione prezzi e conteggio n. persone in una stanza tramite sensori
+- [Logic for Artificial Intelligence](https://github.com/T0NI0N/Logic-for-AI): risoluzione tableaux in PROLOG e controllo qualità industriale tramite Fuzzy Logic
+- [Security Risk Management](https://github.com/T0NI0N/uni-presentations/blob/main/Post-Quantum_Security_Overview.pdf): analisi della sicurezza della crittografia post-quantistica
 - [Data Visualization](https://github.com/T0NI0N/uni-presentations/blob/main/DataVisualizationProject.pdf): report sulla situazione terroristica nel mondo 
-- Altri corsi, work in progress...
+- [Process Algebras](https://github.com/T0NI0N/uni-presentations/blob/main/Dynamic_Information_Flow.pdf): analisys of Information Flow Security in Dynamic Contexts with P_BNDC
+- [Models for Biological Systems](https://github.com/T0NI0N/uni-presentations/blob/main/Math_Modeling_KRAS.pdf): analisys of Mathematical modeling of drug resistance due to KRAS mutation in colorectal cancer
+- [Cloud Data Management](https://github.com/T0NI0N/uni-presentations/blob/main/QuennsGuard.pdf): complementary exam presentation on Queen's Guard, a secure enforceent of fine-grained access control in distributed data analytics platforms
+- [Multimedia Signal Analisys and Understanding](https://github.com/T0NI0N/uni-presentations/blob/main/Steganography_and_Watermarking.pdf): Steganography and Watermarking overwiew
+- Vari progetti più contenuti per i corsi rimanenti.
 
 ### Personali
 - Fantacalcio Predict PRO / Lite: applicazione di supporto per il fantacalcio, disponibile su Google Play Store
