@@ -8,8 +8,8 @@ Informatica, Insubria
 Computer Science, Insubria 
 
 ### Tesi
-- Triennale: [Studio e analisi delle prestazioni della crittografia basata su attributi post-quantistica](./pages/post-quantum.md).
-- Magistrale: [Enhancing malware detection in edge computing exploiting Large Language Models: a performance overview](./pages/malware-llm.md).
+- Triennale: [Studio e analisi delle prestazioni della crittografia basata su attributi post-quantistica](./pages/post-quantum.md), [repo](https://github.com/T0NI0N/BenchABE).
+- Magistrale: [Enhancing malware detection in edge computing exploiting Large Language Models: a performance overview](./pages/malware-llm.md), [repo](https://github.com/T0NI0N/MalwareDetectionLLM)
 
 ## Progetti
 
@@ -17,7 +17,7 @@ Finalista nazionale di [CyberChallenge.it 2025](https://cyberchallenge.it/) per 
 
 ### Accademici
 #### Laurea Triennale
-- [Big Data](./pages/bigdata.md): vari mini-progetti in svariati ambiti
+- [Big Data](https://github.com/T0NI0N/Big-Data-esercizi): vari mini-progetti in svariati ambiti
 - Elaborazione delle Immagini: miglioramento qualità ed estrazione caratteristiche
 - Laboratorio A-B: piattaforma prenotazione e gestione vaccinazioni COVID-19
 - Programmazione Dispositivi Mobili: applicazione di gestione fumetti (Kotlin)
